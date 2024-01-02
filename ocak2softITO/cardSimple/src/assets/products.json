@@ -1,0 +1,71 @@
+[{
+    "id": 1,
+    "categoryId": 3,
+    "title": "Lemons",
+    "price": 53.83,
+    "tags": ["art"],
+    "imageUrl": "http://dummyimage.com/100x100.png/ff4444/ffffff"
+  }, {
+    "id": 2,
+    "categoryId": 2,
+    "title": "Butter Balls Salted",
+    "price": 57.06,
+    "tags": ["books"],
+    "imageUrl": "http://dummyimage.com/170x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 3,
+    "categoryId": 2,
+    "title": "Chocolate - Pistoles, White",
+    "price": 96.56,
+    "tags": ["food"],
+    "imageUrl": "http://dummyimage.com/151x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 4,
+    "categoryId": 1,
+    "title": "Relish",
+    "price": 94.83,
+    "tags": ["books"],
+    "imageUrl": "http://dummyimage.com/191x100.png/dddddd/000000"
+  }, {
+    "id": 5,
+    "categoryId": 1,
+    "title": "Beef Striploin Aaa",
+    "price": 1.88,
+    "tags": ["art"],
+    "imageUrl": "http://dummyimage.com/122x100.png/cc0000/ffffff"
+  }, {
+    "id": 6,
+    "categoryId": 2,
+    "title": "Chicken - Thigh, Bone In",
+    "price": 26.56,
+    "tags": ["technology"],
+    "imageUrl": "http://dummyimage.com/166x100.png/5fa2dd/ffffff"
+  }, {
+    "id": 7,
+    "categoryId": 3,
+    "title": "Wine - Chablis J Moreau Et Fils",
+    "price": 8.22,
+    "tags": ["music"],
+    "imageUrl": "http://dummyimage.com/241x100.png/dddddd/000000"
+  }, {
+    "id": 8,
+    "categoryId": 3,
+    "title": "Croissants Thaw And Serve",
+    "price": 6.82,
+    "tags": ["fitness"],
+    "imageUrl": "http://dummyimage.com/187x100.png/cc0000/ffffff"
+  }, {
+    "id": 9,
+    "categoryId": 2,
+    "title": "Roe - Lump Fish, Red",
+    "price": 5.86,
+    "tags": ["fashion"],
+    "imageUrl": "http://dummyimage.com/179x100.png/ff4444/ffffff"
+  }, {
+    "id": 10,
+    "categoryId": 2,
+    "title": "Beer - Paulaner Hefeweisse",
+    "price": 72.61,
+    "tags": ["travel"],
+    "imageUrl": "http://dummyimage.com/213x100.png/cc0000/ffffff"
+  }]
